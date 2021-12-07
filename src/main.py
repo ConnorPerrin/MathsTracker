@@ -12,15 +12,15 @@ import numpy as np
 class MathsTracker:
     def __init__(self):
         print("Welcome to MathsTracker")
-        
+
         self.limits = 50
 
         #self.createDefaultJSON()
 
         self.loadJSON()
-        self.commands()
-        self.run()
-        self.saveJSON()
+        # self.commands()
+        # self.run()
+        # self.saveJSON()
         self.createGraphs()
 
     def loadJSON(self):
@@ -101,9 +101,9 @@ class MathsTracker:
     def get2DArray(self, heat_range):
         numpy_data = np.zeros((heat_range, heat_range), dtype=np.float32)
 
-        for row in range(1, heat_range):
-            for col in range(1, heat_range):
-                numpy_data[row][col] = self.getPercentage(self.data[str(row)][str(col)])
+        for row in range(0, heat_range):
+            for col in range(0, heat_range):
+                numpy_data[row][col] = self.getPercentage(self.data[str(row+1)][str(col+1)])
         
         return numpy_data 
 
