@@ -11,14 +11,16 @@ import numpy as np
 
 class MathsTracker:
     def __init__(self):
+        print("Welcome to MathsTracker")
+        
         self.limits = 50
 
         #self.createDefaultJSON()
-        #self.saveJSON()
-        self.loadJSON()
-        #self.commands()
-        #self.run()
 
+        self.loadJSON()
+        self.commands()
+        self.run()
+        self.saveJSON()
         self.createGraphs()
 
     def loadJSON(self):
@@ -30,16 +32,15 @@ class MathsTracker:
             json.dump(self.data, outfile, indent=4)
 
     def commands(self):
-        print("Welcome to MathsTracker")
         self.range = input("Please choose the max range (0-50): ")
-        # self.timed = input("Do you want this session to be timed (Y/n): ")
 
+        # self.timed = input("Do you want this session to be timed (Y/n): ")
         # if(self.timed.lower() == 'y'):
         #     self.sessionTime = input("How long do you want this session to last: ")
 
-        # self.ready = 'n'
-        # while(self.ready == 'n'):
-        #     self.ready = input("Are you ready to start (Y/n): ")
+        self.ready = 'n'
+        while(self.ready == 'n'):
+            self.ready = input("Are you ready to start (Y/n): ")
             
 
     def createDefaultJSON(self):
