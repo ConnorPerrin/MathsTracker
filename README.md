@@ -4,7 +4,9 @@ This is a very simple application used to improve my basic arithmetic skills. In
 
 ## 10x10
 
-![](https://github.com/ConnorPerrin/MathsTracker/blob/main/images/heatmap_range_10.png)
+<p align="center">
+  <img src="[](https://github.com/ConnorPerrin/MathsTracker/blob/main/images/heatmap_range_10.png)" />
+</p>
 
 ## 20x20
 
