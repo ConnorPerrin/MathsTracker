@@ -10,19 +10,27 @@ This is a very simple application used to improve my basic arithmetic skills. In
 
 ## 20x20
 
-![](https://github.com/ConnorPerrin/MathsTracker/blob/main/images/heatmap_range_20.png)
+<p align="center">
+  <img src="https://github.com/ConnorPerrin/MathsTracker/blob/main/images/heatmap_range_20.png" />
+</p>
 
 ## 30x30
 
-![](https://github.com/ConnorPerrin/MathsTracker/blob/main/images/heatmap_range_30.png)
+<p align="center">
+  <img src="https://github.com/ConnorPerrin/MathsTracker/blob/main/images/heatmap_range_30.png" />
+</p>
 
 
 ## 40x40
 
-![](https://github.com/ConnorPerrin/MathsTracker/blob/main/images/heatmap_range_40.png)
+<p align="center">
+  <img src="https://github.com/ConnorPerrin/MathsTracker/blob/main/images/heatmap_range_40.png" />
+</p>
 
 
 ## 50x50
 
-![](https://github.com/ConnorPerrin/MathsTracker/blob/main/images/heatmap_range_50.png)
+<p align="center">
+  <img src="https://github.com/ConnorPerrin/MathsTracker/blob/main/images/heatmap_range_50.png" />
+</p>
 
