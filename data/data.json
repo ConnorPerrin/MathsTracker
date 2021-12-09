@@ -29,8 +29,8 @@
             "numSeen": 0
         },
         "8": {
-            "numCorrect": 0,
-            "numSeen": 0
+            "numCorrect": 1,
+            "numSeen": 1
         },
         "9": {
             "numCorrect": 0,
@@ -207,8 +207,8 @@
             "numSeen": 2
         },
         "2": {
-            "numCorrect": 2,
-            "numSeen": 2
+            "numCorrect": 3,
+            "numSeen": 3
         },
         "3": {
             "numCorrect": 4,
@@ -239,8 +239,8 @@
             "numSeen": 1
         },
         "10": {
-            "numCorrect": 0,
-            "numSeen": 0
+            "numCorrect": 1,
+            "numSeen": 1
         },
         "11": {
             "numCorrect": 0,
@@ -405,12 +405,12 @@
     },
     "3": {
         "1": {
-            "numCorrect": 1,
-            "numSeen": 1
+            "numCorrect": 2,
+            "numSeen": 2
         },
         "2": {
-            "numCorrect": 0,
-            "numSeen": 0
+            "numCorrect": 2,
+            "numSeen": 2
         },
         "3": {
             "numCorrect": 1,
@@ -421,8 +421,8 @@
             "numSeen": 0
         },
         "5": {
-            "numCorrect": 0,
-            "numSeen": 0
+            "numCorrect": 1,
+            "numSeen": 1
         },
         "6": {
             "numCorrect": 1,
@@ -833,8 +833,8 @@
             "numSeen": 0
         },
         "7": {
-            "numCorrect": 0,
-            "numSeen": 0
+            "numCorrect": 1,
+            "numSeen": 1
         },
         "8": {
             "numCorrect": 1,
@@ -1035,8 +1035,8 @@
             "numSeen": 0
         },
         "7": {
-            "numCorrect": 0,
-            "numSeen": 0
+            "numCorrect": 1,
+            "numSeen": 1
         },
         "8": {
             "numCorrect": 0,
@@ -1443,8 +1443,8 @@
             "numSeen": 0
         },
         "8": {
-            "numCorrect": 0,
-            "numSeen": 0
+            "numCorrect": 1,
+            "numSeen": 1
         },
         "9": {
             "numCorrect": 0,
@@ -1625,12 +1625,12 @@
             "numSeen": 0
         },
         "3": {
-            "numCorrect": 0,
-            "numSeen": 0
+            "numCorrect": 1,
+            "numSeen": 1
         },
         "4": {
-            "numCorrect": 0,
-            "numSeen": 0
+            "numCorrect": 1,
+            "numSeen": 1
         },
         "5": {
             "numCorrect": 0,
