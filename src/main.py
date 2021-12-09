@@ -18,9 +18,9 @@ class MathsTracker:
         #self.createDefaultJSON()
 
         self.loadJSON()
-        # self.commands()
-        # self.run()
-        # self.saveJSON()
+        self.commands()
+        self.run()
+        self.saveJSON()
         self.createGraphs()
 
     def loadJSON(self):
