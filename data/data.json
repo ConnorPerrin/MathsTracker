@@ -619,8 +619,8 @@
             "numSeen": 0
         },
         "4": {
-            "numCorrect": 0,
-            "numSeen": 0
+            "numCorrect": 1,
+            "numSeen": 1
         },
         "5": {
             "numCorrect": 1,
